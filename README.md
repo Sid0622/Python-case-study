@@ -2,14 +2,19 @@
 campaigns. By identifying the right audience and tailoring strategies to their preferences, Greenleaf Grocery Store aims to 
 boost sales and enhance customer loyalty. One of the most powerful methods for achieving this is RFM (Recency, Frequency, 
 Monetary) analysis.
+
  In this case study, we explore how Greenleaf Grocery Store uses RFM analysis to evaluate and optimize their marketing 
 campaigns. The store segments its customers based on three key attributes:
+
  ➢ Recency: The time elapsed since a customer’s last purchase. Customers who shop more recently are typically more 
 engaged and responsive to marketing efforts.
+
  ➢ Frequency: How often a customer makes a purchase. Frequent shoppers are often considered loyal customers, and 
 understanding their shopping habits can guide future promotions.
+
  ➢ Monetary: The total amount a customer has spent. High-spending customers are prime targets for exclusive offers and 
 personalized marketing.
+
  By analyzing customer data with these three attributes, Greenleaf Grocery Store can craft more effective, targeted 
 marketing strategies that increase customer engagement and satisfaction
 
